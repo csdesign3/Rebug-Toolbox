@@ -2,46 +2,46 @@ STR_LANGUAGE				{Português}
 STR_LANGCODE				{\x06}
 STR_LANG					{Idioma}
 STR_LANGDESC				{Escolha um idioma}
-STR_DISABLE					{Desactivado}
-STR_ENABLE					{Activado}
+STR_DISABLE					{Desativado}
+STR_ENABLE					{Ativado}
 STR_NO						{Não}
 STR_SYSTEM					{Sistema}
-STR_SELECTOR				{Seleccionador}
+STR_SELECTOR				{Seletor}
 STR_LV1PATCH				{Patches LV1}
 STR_DTC						{DEX/CEX}
 STR_UTLS					{Utilitários}
-STR_EIDRK					{Desejas descarregar a tua root key e reiniciar?\n\nO arquivo eid_root_key será criado em /dev_hdd0/game/RBGTLBOX2/USRDIR}
+STR_EIDRK					{Deseja descarregar a tua root key e reiniciar?\n\nO arquivo eid_root_key será criado em /dev_hdd0/game/RBGTLBOX2/USRDIR}
 STR_SCRSHOT					{Guardando screenshot em}
-STR_DONE					{Feito!}
-STR_SHTDWN					{Desligando...}
-STR_TRYRESTART				{Tentando reiniciar...}
+STR_DONE					{Concluido!}
+STR_SHTDWN					{A desligar...}
+STR_TRYRESTART				{A tentar reiniciar...}
 STR_NOTFOUND				{não encontrado!}
-STR_PETBOOTINST				{Desejas instalar o Petitboot na região 5 da VFLASH/NAND?}
+STR_PETBOOTINST				{Deseja instalar o Petitboot na região 5 da VFLASH/NAND?}
 STR_PETBOOTOK				{Petitboot instalado com sucesso. Aproveita o OtherOS.}
-STR_PETBOOTERROR			{ERRO: Não foi possível encontrar o Petitboot..VFLASH Detectada.\n\nPor favor coloca o arquivo [dtbimage.ps3.bin] no dispositivo USB e tenta novamente.}
-STR_RESIZE5					{Desejas redimensionar a região 5 da VFLASH/NAND para permitir OtherOS?}
+STR_PETBOOTERROR			{ERRO: Não foi possível encontrar o Petitboot..VFLASH Detectada.\n\nPor favor coloque o arquivo [dtbimage.ps3.bin] no dispositivo USB e tente novamente.}
+STR_RESIZE5					{Deseja redimensionar a região 5 da VFLASH/NAND para permitir OtherOS?}
 STR_RESIZE5OK				{SUCESSO: A PS3 precisa de reiniciar para efetuar as mudanças.}
 STR_RESIZE5ERROR			{ERRO: Erro ao redimensionar a região 5 da VFLASH/NAND.}
 STR_FLASHOK					{SUCESSO: A PS3 precisa de reiniciar para efetuar as mudanças.}
 STR_FLASHERROR				{ERRO ao flashar!!!}
-STR_GAMEOSFLG				{Desejas activar a boot flag do GameOS?}
-STR_GAMEOSFLGOK				{Flag já activada.}
-STR_SYSINF					{Informações do Sistema}
-STR_SYSINFDESC				{Mostra informações sobre a tua PS3™.}
+STR_GAMEOSFLG				{Deseja ativar a boot flag do GameOS?}
+STR_GAMEOSFLGOK				{Flag já ativada.}
+STR_SYSINF					{Informações de Sistema}
+STR_SYSINFDESC				{Mostra informações sobre a PS3™.}
 STR_QUIT					{Sair}
 STR_QUITDESC1				{Sair}
-STR_QUITDESC2				{e retornar para o XMB™}
+STR_QUITDESC2				{e retornar para a XMB™}
 STR_RESTSYS					{Reiniciar Sistema}
 STR_RESTSYSDESC1			{Fechar}
-STR_RESTSYSDESC2			{e reiniciar a tua PLAYSTATION® 3}
+STR_RESTSYSDESC2			{e reiniciar a sua PLAYSTATION® 3}
 STR_RESTSYS_SUB1			{Soft (Reiniciar apenas o LV2)}
 STR_RESTSYS_SUB2			{Completo (Ciclo Liga/Desliga)}
 STR_BOOTOOS					{Iniciar OtherOS}
-STR_BOOTOOSDESC				{Seleccionar Patches LV1 e reiniciar no OtherOS}
+STR_BOOTOOSDESC				{Selecionar Patches LV1 e reiniciar no OtherOS}
 STR_BOOTOOS_SUB1			{Iniciar (Patches LV1: Aplicar todos)}
 STR_BOOTOOS_SUB2			{Iniciar (Patches LV1: Usar atual)}
 STR_TRNOFF					{Desligar Sistema}
-STR_TRNOFFDESC				{Desligar a tua PLAYSTATION® 3}
+STR_TRNOFFDESC				{Desligar a PLAYSTATION® 3}
 STR_QA						{Alterar Flag QA}
 STR_QADESC					{Habilita ou desabilita as funções da flag QA.}
 STR_NOTAV					{Indisponível}
@@ -118,7 +118,7 @@ STR_LV1SPE					{Acesso Completo LV1 ao Registro MFC_SR1}
 STR_LV1SPEDESC				{Permite acesso all-bit access ao registro.}
 STR_LV1DABR					{Acesso LV1 para atribuir Data Break Points}
 STR_LV1DABRDESC				{Habilita acesso LV1 com lv1_set_dabr().}
-STR_LV1GART					{Accesso LV1 à Memória GART da GPU }
+STR_LV1GART					{Acesso LV1 à Memória GART da GPU }
 STR_LV1GARTDESC				{Permite a LV1 usar tamanhos de página E/S 4KB.}
 STR_LV1KEYS					{Chaves de Acesso ENCDEC do Storage Manager }
 STR_LV1KEYSDESC				{Permite o Storage Manager limpar as chaves ENCDEC.}
@@ -153,54 +153,54 @@ STR_WEIDRUSURE2				{TENS A CERTEZA?}
 STR_WEIDRUSURE3				{Estás prestes a MUDAR A Região/Target ID da tua PS3™!\nID Atual:}
 STR_WEIDRUSURE4				{Novo ID:}
 STR_WEIDRRUUSURE			{AVISO:\n\nEsta operação é PERIGOSA e deve ser feita APENAS se estiveres CONFIANTE!\n\nT E N S  A  C E R T E Z A ?}
-STR_WEIDOK1					{Flash da região EID0 sobrescrito com sucesso (192 bytes).\n\nPor favor sai para o XMB, desliga e liga a tua ps3!}
-STR_WEIDOK2					{Flash da região EID0 sobrescrito com sucesso (192 bytes).\n\nPara aplicar a mudança de região, por favor sai para o XMB, desliga e liga a tua ps3!}
+STR_WEIDOK1					{Flash da região EID0 subscrito com sucesso (192 bytes).\n\nPor favor sair para a XMB e reiniciar a PS3!}
+STR_WEIDOK2					{Flash da região EID0 subscrito com sucesso (192 bytes).\n\nPara aplicar a mudança de região, por favor sair para a XMB e reiniciar a PS3!}
 STR_WEIDERROR3				{Erro ao escrever na flash EID0!}
 STR_WEIDERROR4				{Erro ao aceder ao dispositivo FLASH!}
-STR_WTDMSG1					{Sua firmware e modo atual}
-STR_WTDMSG2					{permite descarregar a tua root key.\nPodes descarrega-la e converter de DEX para CEX e vice-versa com esta ferramenta.\nSe tiveres a root key em /dev_hdd0/game/RBGTLBOX2/USRDIR/eid_root_key, terás esta escolha agora.}
+STR_WTDMSG1					{O firmware e modo atual}
+STR_WTDMSG2					{permitir descarregar a  root key.\nPodes descarrega-la e converter de DEX para CEX e vice-versa com esta ferramenta.\nSe tiver a root key em /dev_hdd0/game/RBGTLBOX2/USRDIR/eid_root_key, terá esta escolha agora.}
 STR_WTDMSG3					{se tiveres a root key em /dev_hdd0/game/RBGTLBOX2/USRDIR/eid_root_key, terás esta escolha agora.}
 STR_WTDMSG4					{eid_root_key encontrada, desejas converter automaticamente de}
 STR_WTDMSG5					{DEX verdadeiro encontrado\nAlterar CEX pode alterar a id da região para USA(0x84)}
-STR_WTDMSG6					{Erro ocorrido.\n\nVerifica a tua eid_root_key, A tua chave pode ter sido corrompida ou pertencer a outra consola}
-STR_WTDMSG7					{Providencia o arquivo a seguir e tenta novamente}
+STR_WTDMSG6					{Ocorreu um Erro .\n\nVerificar a eid_root_key, A chave pode ter sido corrompida ou pertencer a outra consola}
+STR_WTDMSG7					{Carregar arquivo a seguir e tenta novamente}
 STR_WTDMSG8					{Fazer flash de toda NOR está desabilitado.\n\nNomeia sua descarga (dump) NOR corretamente para habilitar O FLASH SOMENTE DA SEÇÃO EID0.\n\n[*.EID0.NORBIN] deve ser de 16MB e deve também ser de SEU console.\nSomente 192 bytes serão sobrescritos na flash (EID0).}
 STR_WTDMSG9					{Fazer flash de toda NAND está desabilitado.\n\nNomeia sua descarga (dump) NAND dump corretamente para habilitar O FLASH SOMENTE DA SEÇÃO EID0.\n\n[*.EID0.NANDBIN] deve ser de 239MB ou 256MB e deve também ser de SEU console.\nSomente 192 bytes serão sobrescritos na flash (EID0).}
 STR_MAINNORBG				{O teu sistema não está a rodar numa configuração REBUG compatível!\n\nAlgumas opções estarão indisponíveis.}
 STR_MAINNOCOB				{O teu sistema não está a rodar numa configuração REBUG COBRA compatível!\n\nAlterar o COBRA estará indisponível.}
-STR_MAINNOFW				{Não foi possível detectar a versão de firmware, carrega no OK para sair.}
-STR_MAINERRFLASH			{Não foi possível aceder o dispositivo FLASH, carrega no OK para sair.}
+STR_MAINNOFW				{Não foi possível detectar a versão de firmware, carregar no OK para sair.}
+STR_MAINERRFLASH			{Não foi possível aceder o dispositivo FLASH, carregar OK para sair.}
 STR_SCRSHTSAVED				{Captura de ecrã guardada como}
-STR_SAVXREG					{Desejas fazer o backup de /dev_flash2/etc/xRegistry.sys para /dev_usb000?}
+STR_SAVXREG					{Deseja fazer o backup de /dev_flash2/etc/xRegistry.sys para /dev_usb000?}
 STR_SAVXREGOK				{Backup completo!\nxRegistry.sys guardado em /dev_usb000}
 STR_SAVXREGERR1				{ERRO!\nxRegistry.sys não foi guardado}
 STR_SAVXREGERR2				{ERRO!\nNão há um dispositivo de armazenamento conectado em dev_usb000}
 STR_SAVXREGERR3				{ERRO: /dev_flash2/etc/xRegistry.sys não foi encontrado!}
-STR_RESXREG					{Desejas restaurar xRegistry.sys a partir de /dev_usb000?}
+STR_RESXREG					{Deseja restaurar xRegistry.sys a partir de /dev_usb000?}
 STR_RESXREGOK				{Restauração completa!\nxRegistry.sys restaurado de /dev_usb000}
 STR_RESXREGERR1				{ERRO!\nxRegistry.sys não foi restaurado}
 STR_RESXREGERR2				{ERRO: /dev_usb000/xRegistry.sys não foi encontrado!}
 STR_MAKPKGOK				{Pasta [/dev_hdd0/packages] criada com sucesso.}
 STR_MAKPKGERR				{Não foi possível criar a pasta [/dev_hdd0/packages]!}
 STR_LOADLV2KERR1			{Selecionado arquivo de Kernel LV2 inválido!}
-STR_LOADLV2K				{Desejas carregar o kernel LV2 selecionado e fazer reinicialização suave?}
+STR_LOADLV2K				{Desejas carregar o kernel LV2 selecionado e fazer reiniciar parcial? (LV2 Soft Reset)}
 STR_LOADLV2KNOSPACE			{Não há espaço disponível em /dev_flash!}
 STR_LOADLV2KCHKLV1			{Verificando LV1, aguarda um momento...}
 STR_LOADLV2KERR2			{Kernel LV2: Operação falhou.}
-STR_BOOTOOSMSG1				{Desejas alterar a ordem de inicialização, habilitar todos os patches LV1 patches e carregar OtherOS?}
-STR_BOOTOOSMSG2				{Desejas alterar a ordem de inicialização e carregar OtherOS?}
+STR_BOOTOOSMSG1				{Deseja alterar a ordem de inicialização, ativar todos os patches LV1 patches e carregar OtherOS?}
+STR_BOOTOOSMSG2				{Deseja alterar a ordem de inicialização e carregar OtherOS?}
 STR_BOOTOOSERR1				{OtherOS: Operação falhou.}
-STR_SWPKERR					{Esta função não está disponível no modo CEX.\n\nPor favor faz o flash da DEX na NOR/NAND primeiro.}
-STR_DMPFLSH					{Desejas exportar a memória FLASH para um arquivo?}
-STR_DMPFLSHERR				{Por favor insere um drive USB (/dev_usb000) com pelo menos 256MB disponíveis e tenta novamente!}
-STR_EXPLVMSG1				{Desejas exportar a memória LV2 GameOS para um arquivo?}
-STR_EXPLVMSG2				{Desejas exportar a memória LV1 HV para um arquivo?}
+STR_SWPKERR					{Esta função não está disponível no modo CEX.\n\nPor favor fazer flash da DEX na NOR/NAND primeiro.}
+STR_DMPFLSH					{Deseja exportar a memória FLASH para um arquivo?}
+STR_DMPFLSHERR				{Por favor inserir memória USB (/dev_usb000) com pelo menos 256MB disponíveis e tenta novamente!}
+STR_EXPLVMSG1				{Deseja exportar a memória LV2 GameOS para um arquivo?}
+STR_EXPLVMSG2				{Deseja exportar a memória LV1 HV para um arquivo?}
 STR_EXPLVWAIT				{Por favor aguarda um momento...}
 STR_EXPLVOK					{Memória GameOS exportada com sucesso para o arquivo }
 STR_EXPLVERR				{Exportação da memória GameOS falhou!\n\nNão foi possível criar}
 STR_EXPLVMSG3				{Exportando memória do HyperVisor (LV1) para um arquivo}	
 STR_EXPLVMSG5               {Exportando memória do GameOS para um arquivo}
-STR_EXPLVMSG4				{Por favor aguarda, isto pode levar uns 5 minutos...}
+STR_EXPLVMSG4				{Por favor aguarde, operação pode demorar cerca de 5 minutos...}
 STR_EXPLVOK2				{Memória do HiperVisor exportada com sucesso para o arquivo}
 STR_EXPLVERR2				{Memória do HiperVisor falhou ao exportar!\n\nNão foi possível criar}
 STR_MODNORM					{[MODO NORMAL] está agora ativo.\n\nO sistema irá reiniciar automaticamente ao sair.}
@@ -208,8 +208,8 @@ STR_TRYAGAIN				{FALHOU: POR FAVOR TENTA NOVAMENTE}
 STR_MODNORMALRD				{[MODO NORMAL] JÁ ESTÁ ATIVO!!}
 STR_MODREB					{[MODO REBUG] está agora ativo.\n\nO sistema irá reiniciar automaticamente ao sair.}
 STR_MODREBALRD				{[MODO REBUG] JÁ ESTÁ ATIVO!}
-STR_WMDIS					{WebMAN está desabilitado. O sistema irá reiniciar automaticamente ao sair.}
-STR_WMENA					{WebMAN está habilitado. webMAN será carreagado na próxima inicialização.\n\nActiva o COBRA após activares o webMAN}
+STR_WMDIS					{WebMAN está desativado. O sistema irá reiniciar automaticamente ao sair.}
+STR_WMENA					{WebMAN está ativado. webMAN será carreagado na próxima inicialização.\n\nAtiva o COBRA após ativares o webMAN}
 STR_MODRET					{[RETAIL XMB] está agora ativo.\n\nO sistema irá reiniciar automaticamente ao sair.}
 STR_MODRETERR1				{POR FAVOR TENTA [DEBUG XMB]}
 STR_MODRETERR2				{INDISPONÍVEL NO [MODO NORMAL]}
@@ -224,15 +224,15 @@ STR_MODDEBSDEB				{[DEBUG SETTINGS: MENU DEBUG] está agora ativo.\n\nO sistema 
 STR_MODDEBSDEBOK			{[DEBUG SETTINGS: MENU DEBUG] está agora ativo.}
 STR_MODDEBSDEBERR1			{[DEBUG SETTINGS: MENU DEBUG] FAILED}
 STR_MODDEBSDEBERR2			{TENTA [DEBUG SETTINGS: MENU CEX QA]}
-STR_MODCOBENA				{Modo COBRA activado.}
-STR_MODCOBDIS				{Modo COBRA desactivado.}
+STR_MODCOBENA				{Modo COBRA ativado.}
+STR_MODCOBDIS				{Modo COBRA desativado.}
 STR_ERRFLASH				{Erro na flash, reinstala o firmware para corrigir}
 STR_PS2ERR1					{Não foram encontrados arquivos do PS2Emu no Disco Rigido ou USB(dev_usb000).}
 STR_PS2CONT					{Continuar a copiar arquivos do PS2Emu da USB(dev_usb000)?}
 STR_PS2COP					{Arquivos do PS2Emu copiados da USB!}
 STR_PS2SWPOK				{PS2Emu alterado!\nReinicia para efetuar as modificações.}
-STR_XMBCFWDIS				{Configuração XMB CFW MOD está Desactivada. O plugin será descarregado na próxima reinicialização.}
-STR_XMBCFWENA				{Configuração XMB CFW MOD está Activada. A funcionalidade estará disponível via coluna Rede do XMB.}
+STR_XMBCFWDIS				{Configuração XMB CFW MOD está Desativada. O plugin será descarregado no próximo reiniciar.}
+STR_XMBCFWENA				{Configuração XMB CFW MOD está Ativada. A funcionalidade estará disponível via coluna Rede do XMB.}
 STR_FLASHSET				{Flag já atribuída.}
 STR_1                       {Dados guardados como:}
 STR_2                       {Processado:}
@@ -242,4 +242,4 @@ STR_5                       {MB/s}
 STR_READFLASHERROR1			{Erro aconteceu enquanto acedia aos dados!\n\nSectores lidos: }
 STR_READFLASHERROR2			{\nTotal de sectores: }
 STR_TOGHOSTINF              {Alterar Informações do Host no XMB [DEX]}
-STR_TOGHOSTINFDESC          {Activa ou Desactiva Informações do Host no XMB}
+STR_TOGHOSTINFDESC          {Ativa ou Desativa Informações do Host no XMB}
